@@ -11,6 +11,8 @@ is** — and priorities can even change on their own on a set date (so an emerge
 fund can sit at Low priority today and automatically become High priority starting
 a future year, with zero manual editing).
 
+Launch the app here : https://hr-22.github.io/Personal-Savings-App/
+
 ## ✨ Features
 
 - **Connected pool allocation** — one running total, split across every goal and
